@@ -80,35 +80,15 @@ const taha = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" display="flex">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tahasdq&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Taha's GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Tahasdq&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Taha's GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahasdq&layout=compact&langs_count=8&theme=github_dark&hide_border=true&hide=html,css" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tahasdq&layout=compact&langs_count=8&theme=github_dark&hide_border=true&hide=html,css" alt="Top Languages"/>
 
 </div>
 
-<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Tahasdq&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahasdq&theme=github-compact&hide_border=true&bg_color=161b22&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=58a6ff" alt="Contribution Graph" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tahasdq&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
