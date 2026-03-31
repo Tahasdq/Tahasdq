@@ -1,10 +1,6 @@
 <!-- Header -->
 <div align="center">
 
-```
-// Hello, World!
-```
-
 # Hi, I'm Taha 👋
 
 **Full Stack Developer** · Building scalable web apps · Exploring AI-powered software
