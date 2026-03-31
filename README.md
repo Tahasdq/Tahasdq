@@ -1,4 +1,3 @@
-<!-- Header -->
 <div align="center">
 
 # Hi, I'm Taha 👋
@@ -7,10 +6,10 @@
 
 *I turn complex problems into clean, fast, and elegant solutions.*
 
-[![Open to work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-3fb950?style=flat-square&labelColor=161b22)](mailto:your@email.com)
-[![Currently building](https://img.shields.io/badge/⚡-Currently%20Building%20Something%20Cool-58a6ff?style=flat-square&labelColor=161b22)](https://github.com/Tahasdq)
-[![Learning](https://img.shields.io/badge/🧠-Learning%20AI%2FML-bc8cff?style=flat-square&labelColor=161b22)](https://github.com/Tahasdq)
-[![Location](https://img.shields.io/badge/📍-Pakistan-ffa657?style=flat-square&labelColor=161b22)](https://github.com/Tahasdq)
+![Open to work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-3fb950?style=flat-square&labelColor=161b22)
+![Currently building](https://img.shields.io/badge/%E2%9A%A1-Currently%20Building%20Something%20Cool-58a6ff?style=flat-square&labelColor=161b22)
+![Learning](https://img.shields.io/badge/%F0%9F%A7%A0-Learning%20AI%2FML-bc8cff?style=flat-square&labelColor=161b22)
+![Location](https://img.shields.io/badge/%F0%9F%93%8D-Pakistan-ffa657?style=flat-square&labelColor=161b22)
 
 </div>
 
@@ -61,14 +60,14 @@ const taha = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tahasdq&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahasdq&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tahasdq&show_icons=true&theme=github_dark&hide_border=true&bg_color=%23161b22&title_color=%2358a6ff&icon_color=%233fb950&text_color=%23c9d1d9&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahasdq&layout=compact&theme=github_dark&hide_border=true&bg_color=%23161b22&title_color=%2358a6ff&text_color=%23c9d1d9" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tahasdq&theme=github-dark-blue&hide_border=true&background=161b22&stroke=30363d&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff)
+<img src="https://streak-stats.demolab.com/?user=Tahasdq&theme=github-dark-blue&hide_border=true&background=%23161b22&stroke=%2330363d&ring=%2358a6ff&fire=%23ffa657&currStreakLabel=%2358a6ff" />
 
 </div>
 
