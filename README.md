@@ -65,9 +65,11 @@ const taha = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tahasdq&show_icons=true&theme=github_dark&hide_border=true&bg_color=%23161b22&title_color=%2358a6ff&icon_color=%233fb950&text_color=%23c9d1d9&count_private=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahasdq&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=%23161b22&title_color=%2358a6ff&text_color=%23c9d1d9&hide=html,css" />
+<div align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tahasdq&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tahasdq&layout=compact&langs_count=6&theme=github_dark&hide_border=true&hide=html,css" />
+</div>
 
 </div>
 
