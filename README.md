@@ -1,61 +1,134 @@
 <div align="center">
-  <h1>Hi, I'm Taha 👋</h1>
-  <h3>Full Stack Developer | Building Scalable Web Apps & AI-Powered SaaS</h3>
-  <p><em>I craft elegant, high-performance solutions that turn complex ideas into intuitive digital experiences.</em></p>
 
-  ![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-3fb950?style=flat-square&labelColor=161b22)
-  &nbsp;
-  ![Currently Building](https://img.shields.io/badge/%E2%9A%A1%20Building%20AI%20SaaS-58a6ff?style=flat-square&labelColor=161b22)
-  &nbsp;
-  ![Learning](https://img.shields.io/badge/%F0%9F%A7%A0%20Exploring%20Agentic%20AI-bc8cff?style=flat-square&labelColor=161b22)
-  &nbsp;
-  ![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Karachi%2C%20Pakistan-ffa657?style=flat-square&labelColor=161b22)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Taha%20👋&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20AI-Powered%20SaaS%20Builder&descAlignY=75&descSize=18" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Apps+%E2%9A%A1;Crafting+AI-Powered+SaaS+Products+%F0%9F%A4%96;Clean+Code.+Fast+Delivery.+Real+Impact.+%E2%98%95" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-3fb950?style=flat-square&labelColor=161b22)
+&nbsp;
+![Building](https://img.shields.io/badge/%E2%9A%A1%20Building%20AI%20SaaS-58a6ff?style=flat-square&labelColor=161b22)
+&nbsp;
+![Learning](https://img.shields.io/badge/%F0%9F%A7%A0%20Exploring%20Agentic%20AI-bc8cff?style=flat-square&labelColor=161b22)
+&nbsp;
+![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Karachi%2C%20Pakistan-ffa657?style=flat-square&labelColor=161b22)
+
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
 ```js
 const taha = {
-  role: "Full Stack Developer",
-  location: "Karachi, Pakistan 🇵🇰",
-  focus: ["Scalable Web Apps", "AI-Powered SaaS", "Modern Full-Stack Systems"],
+  role:              "Full Stack Developer",
+  location:          "Karachi, Pakistan 🇵🇰",
+  focus:             ["Scalable Web Apps", "AI-Powered SaaS", "Modern Full-Stack Systems"],
   currentlyLearning: ["Advanced LLM Orchestration", "System Design at Scale", "Edge Computing"],
-  availableFor: "Freelance / Full-time / Collaborations",
-  motto: "Clean code. Fast delivery. Real impact. ☕"
+  availableFor:      "Freelance / Full-time / Collaborations",
+  motto:             "Clean code. Fast delivery. Real impact. ☕"
 };
+```
 
-🛠️ Tech Stack (2026 Edition)
-Frontend
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&#x26;logo=typescript&#x26;logoColor=fff" alt="TypeScript">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&#x26;logo=react&#x26;logoColor=000" alt="React">
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&#x26;logo=next.js&#x26;logoColor=fff" alt="Next.js">
-<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&#x26;logo=tailwindcss&#x26;logoColor=fff" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Shadcn%2Fui-000?style=flat-square&#x26;logo=shadcnui&#x26;logoColor=fff" alt="Shadcn/ui">
-Backend & APIs
-<img src="https://img.shields.io/badge/Node.js-3FB950?style=flat-square&#x26;logo=node.js&#x26;logoColor=fff" alt="Node.js">
-<img src="https://img.shields.io/badge/Express-000?style=flat-square&#x26;logo=express&#x26;logoColor=fff" alt="Express">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&#x26;logo=python&#x26;logoColor=fff" alt="Python">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&#x26;logo=fastapi&#x26;logoColor=fff" alt="FastAPI">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&#x26;logo=postgresql&#x26;logoColor=fff" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&#x26;logo=prisma&#x26;logoColor=fff" alt="Prisma">
-AI & Integrations
-<img src="https://img.shields.io/badge/LangChain-000?style=flat-square&#x26;logo=langchain&#x26;logoColor=fff" alt="LangChain">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&#x26;logo=openai&#x26;logoColor=fff" alt="OpenAI">
-<img src="https://img.shields.io/badge/Vercel%20AI-000?style=flat-square&#x26;logo=vercel&#x26;logoColor=fff" alt="Vercel AI SDK">
-DevOps & Cloud
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&#x26;logo=docker&#x26;logoColor=fff" alt="Docker">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&#x26;logo=github-actions&#x26;logoColor=fff" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&#x26;logo=amazon-aws&#x26;logoColor=fff" alt="AWS">
-<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&#x26;logo=vercel&#x26;logoColor=fff" alt="Vercel">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&#x26;logo=linux&#x26;logoColor=000" alt="Linux">
+---
 
-📊 GitHub Stats
+## 🛠️ Tech Stack
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tahasdq&#x26;show_icons=true&#x26;theme=github_dark&#x26;hide_border=true&#x26;count_private=true" alt="Taha&#x27;s GitHub Stats">
-    
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahasdq&#x26;layout=compact&#x26;langs_count=8&#x26;theme=github_dark&#x26;hide_border=true&#x26;hide=html,css" alt="Top Languages">
+**Frontend**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=fff)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn%2Fui-000?style=flat-square&logo=shadcnui&logoColor=fff)
 
+**Backend & APIs**
 
+![Node.js](https://img.shields.io/badge/Node.js-3FB950?style=flat-square&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=fff)
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahasdq&#x26;theme=github-compact&#x26;hide_border=true&#x26;bg_color=161b22&#x26;color=58a6ff&#x26;line=3fb950&#x26;point=58a6ff&#x26;area=true&#x26;area_color=58a6ff" alt="Contribution Graph">
+**AI & Integrations**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=fff)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=fff)
+![Vercel AI](https://img.shields.io/badge/Vercel%20AI%20SDK-000?style=flat-square&logo=vercel&logoColor=fff)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-web-services&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tahasdq&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Taha's GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahasdq&layout=compact&langs_count=8&theme=github_dark&hide_border=true&hide=html,css" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tahasdq&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahasdq&theme=github-compact&hide_border=true&bg_color=161b22&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=58a6ff" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tahasdq&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Tahasdq)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tahasdq)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=80&section=footer&fontSize=20&fontColor=fff" width="100%"/>
+
+<sub>⭐ Star some repos if you find them useful — it means a lot! | Made with ❤️ by Taha</sub>
+
+</div>
